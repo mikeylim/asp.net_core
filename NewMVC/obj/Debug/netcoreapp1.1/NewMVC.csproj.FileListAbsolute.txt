@@ -1,0 +1,8 @@
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\NewMVC\bin\Debug\netcoreapp1.1\NewMVC.deps.json
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\NewMVC\bin\Debug\netcoreapp1.1\NewMVC.runtimeconfig.json
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\NewMVC\bin\Debug\netcoreapp1.1\NewMVC.runtimeconfig.dev.json
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\NewMVC\bin\Debug\netcoreapp1.1\NewMVC.dll
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\NewMVC\bin\Debug\netcoreapp1.1\NewMVC.pdb
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\NewMVC\obj\Debug\netcoreapp1.1\NewMVC.AssemblyInfo.cs
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\NewMVC\obj\Debug\netcoreapp1.1\NewMVC.dll
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\NewMVC\obj\Debug\netcoreapp1.1\NewMVC.pdb

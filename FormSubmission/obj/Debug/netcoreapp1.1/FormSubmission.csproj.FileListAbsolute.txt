@@ -1,0 +1,8 @@
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\FormSubmission\bin\Debug\netcoreapp1.1\FormSubmission.deps.json
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\FormSubmission\bin\Debug\netcoreapp1.1\FormSubmission.runtimeconfig.json
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\FormSubmission\bin\Debug\netcoreapp1.1\FormSubmission.runtimeconfig.dev.json
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\FormSubmission\bin\Debug\netcoreapp1.1\FormSubmission.dll
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\FormSubmission\bin\Debug\netcoreapp1.1\FormSubmission.pdb
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\FormSubmission\obj\Debug\netcoreapp1.1\FormSubmission.AssemblyInfo.cs
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\FormSubmission\obj\Debug\netcoreapp1.1\FormSubmission.dll
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\FormSubmission\obj\Debug\netcoreapp1.1\FormSubmission.pdb

@@ -1,0 +1,8 @@
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\DojoSurvey\bin\Debug\netcoreapp1.1\DojoSurvey.deps.json
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\DojoSurvey\bin\Debug\netcoreapp1.1\DojoSurvey.runtimeconfig.json
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\DojoSurvey\bin\Debug\netcoreapp1.1\DojoSurvey.runtimeconfig.dev.json
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\DojoSurvey\bin\Debug\netcoreapp1.1\DojoSurvey.dll
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\DojoSurvey\bin\Debug\netcoreapp1.1\DojoSurvey.pdb
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\DojoSurvey\obj\Debug\netcoreapp1.1\DojoSurvey.AssemblyInfo.cs
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\DojoSurvey\obj\Debug\netcoreapp1.1\DojoSurvey.dll
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\DojoSurvey\obj\Debug\netcoreapp1.1\DojoSurvey.pdb

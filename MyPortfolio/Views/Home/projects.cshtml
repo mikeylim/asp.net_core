@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>My Projects</title>
+</head>
+<body>
+    <div id="navbar">
+        <a href="/">Home</a>
+        <a href="projects">Projects</a>
+        <a href="contact">Contact</a>
+    </div>
+
+    <h1>This is my projects</h1>
+    <form action="AddProject" method="POST" >
+        Title: <input type="text" name="title"><br>
+        Description: <input type="text" name="desc"><br> 
+        <input type="submit" value="Submit">
+    </form>
+    
+    <div>
+        <h3>Title:</h3>
+        <p>@ViewBag.Title</p>
+        <h3>Description:</h3>
+        <p>@ViewBag.Desc</p>
+    </div>
+</body>
+</html>

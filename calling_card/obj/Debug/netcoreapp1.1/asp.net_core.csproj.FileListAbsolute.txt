@@ -1,0 +1,12 @@
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\c#\asp.net_core\bin\Debug\netcoreapp1.1\asp.net_core.deps.json
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\c#\asp.net_core\bin\Debug\netcoreapp1.1\asp.net_core.runtimeconfig.json
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\c#\asp.net_core\bin\Debug\netcoreapp1.1\asp.net_core.runtimeconfig.dev.json
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\c#\asp.net_core\obj\Debug\netcoreapp1.1\asp.net_core.AssemblyInfo.cs
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\c#\asp.net_core\calling_card\bin\Debug\netcoreapp1.1\asp.net_core.deps.json
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\c#\asp.net_core\calling_card\bin\Debug\netcoreapp1.1\asp.net_core.runtimeconfig.json
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\c#\asp.net_core\calling_card\bin\Debug\netcoreapp1.1\asp.net_core.runtimeconfig.dev.json
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\c#\asp.net_core\calling_card\bin\Debug\netcoreapp1.1\asp.net_core.dll
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\c#\asp.net_core\calling_card\bin\Debug\netcoreapp1.1\asp.net_core.pdb
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\c#\asp.net_core\calling_card\obj\Debug\netcoreapp1.1\asp.net_core.AssemblyInfo.cs
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\c#\asp.net_core\calling_card\obj\Debug\netcoreapp1.1\asp.net_core.dll
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\c#\asp.net_core\calling_card\obj\Debug\netcoreapp1.1\asp.net_core.pdb

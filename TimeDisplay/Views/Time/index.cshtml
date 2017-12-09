@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Time Display</title>
+</head>
+
+<style>
+    body{
+        text-align: center;
+        margin: 0 auto;        
+    }
+    h1{
+        border: 2px solid black;
+        width: 300px;
+        margin: 0 auto;
+    }
+</style>
+
+<body>
+    @{
+        DateTime currentTime = DateTime.Now;
+        string formatDate = "MMM dd, yyyy";
+        string formattedDate = currentTime.ToString(formatDate);
+
+        string formatTime = "hh:mm tt";
+        string formattedTime = currentTime.ToString(formatTime);
+    }
+
+    <h3>The Current Time and Date:</h3>
+    <h1>@formattedDate <br> @formattedTime</h1>
+</body>
+</html>

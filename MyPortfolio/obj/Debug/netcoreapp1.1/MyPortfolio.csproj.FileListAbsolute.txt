@@ -1,0 +1,8 @@
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\MyPortfolio\bin\Debug\netcoreapp1.1\MyPortfolio.deps.json
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\MyPortfolio\bin\Debug\netcoreapp1.1\MyPortfolio.runtimeconfig.json
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\MyPortfolio\bin\Debug\netcoreapp1.1\MyPortfolio.runtimeconfig.dev.json
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\MyPortfolio\obj\Debug\netcoreapp1.1\MyPortfolio.AssemblyInfo.cs
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\MyPortfolio\bin\Debug\netcoreapp1.1\MyPortfolio.dll
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\MyPortfolio\bin\Debug\netcoreapp1.1\MyPortfolio.pdb
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\MyPortfolio\obj\Debug\netcoreapp1.1\MyPortfolio.dll
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\MyPortfolio\obj\Debug\netcoreapp1.1\MyPortfolio.pdb

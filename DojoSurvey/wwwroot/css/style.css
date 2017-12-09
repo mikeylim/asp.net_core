@@ -1,0 +1,13 @@
+body{
+    margin: 0 auto;
+}
+#main-content{
+    margin: 0 auto;
+    margin-top: 105px;
+    padding: 30px;
+    width: 280px;
+    border: 2px solid black;
+}
+p{
+    display: inline-block;
+}

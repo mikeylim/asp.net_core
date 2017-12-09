@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="~/css/index.css">
+        <title>Login</title>
+    </head>
+    <body>
+        <div class="wrapper">
+            <h1>Login</h1>
+            <form action="Login" method="post">
+                Email: <input type="text" name="LogEmail">
+                <br>
+                Password: <input type="password" name="LogPassword">
+                <br>
+                <input type="submit" value="Login">
+            </form>
+            
+            
+        <h1>Registration</h1>
+        <p>@ViewBag.Success</p>
+        @model LoginReg.Models.User
+        <form action="Register" method="POST">
+            <span style="color:red;" asp-validation-for="FirstName"></span> <br>
+            <label asp-for="FirstName"></label>: <input asp-for="FirstName"/> <br>
+            <span style="color:red;" asp-validation-for="LastName"></span> <br>
+            <label asp-for="LastName"></label>: <input asp-for="LastName"/> <br>
+            <span style="color:red;" asp-validation-for="Email"></span> <br>
+            <label asp-for="Email"></label>: <input asp-for="Email"/> <br>
+            <span style="color:red;" asp-validation-for="Password"></span> <br>
+            <label asp-for="Password"></label>: <input asp-for="Password"/> <br>
+            <span style="color:red;" asp-validation-for="CFPassword"></span> <br>
+            <label asp-for="CFPassword"></label>: <input asp-for="CFPassword"/> <br>
+            <input type="submit" value="Register">
+        </form>
+    </div>    
+</body>
+</html>

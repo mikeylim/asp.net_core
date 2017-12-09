@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Contact</title>
+</head>
+<body>
+    <div id="navbar">        
+        <a href="/">Home</a>
+        <a href="projects">Projects</a>
+        <a href="contact">Contact</a>
+    </div>
+    
+    <div id="content">
+        <h1>Enter your Contact</h1>
+        <form action="AddContact" method="POST">
+            Name: <input type="text" name="name">
+            <br>
+            Email: <input type="text" name="email">
+            <br>
+            Message: <input type="text" name="message">
+            <br>
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+
+    <div>
+        <h3>Name:</h3>
+        <p>@ViewBag.Name</p>
+        <h3>Email:</h3>
+        <p>@ViewBag.Email</p>
+        <h3>Message:</h3>
+        <p>@ViewBag.Message</p>
+    </div>
+</body>
+</html>

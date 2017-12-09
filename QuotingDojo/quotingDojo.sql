@@ -1,0 +1,1 @@
+SELECT * FROM users order by created_at desc;

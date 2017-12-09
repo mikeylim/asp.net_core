@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div>
+    <ul style="list-style: none; color:red;">
+        @{
+            foreach(var field in ViewBag.ModelFields)
+            {
+                if (field.Errors.Count > 0)
+                {
+                    <li>@field.Errors[0].ErrorMessage</li>
+                }
+            }
+        }
+    </ul>
+    <h1>Enter your information</h1>
+    <form action="process" method="POST">
+        First Name <input type="text" name="firstName"> <br>
+        Last Name <input type="text" name="lastName"> <br>
+        Age <input type="number" name="age"> <br>
+        Email <input type="text" name="email"> <br>
+        Password <input type="password" name="password"> <br>
+        <input type="submit" value="Submit">
+    </form>
+
+</div>
+
+

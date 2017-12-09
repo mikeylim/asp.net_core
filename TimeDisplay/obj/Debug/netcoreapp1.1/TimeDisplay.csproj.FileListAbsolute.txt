@@ -1,0 +1,8 @@
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\TimeDisplay\bin\Debug\netcoreapp1.1\TimeDisplay.deps.json
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\TimeDisplay\bin\Debug\netcoreapp1.1\TimeDisplay.runtimeconfig.json
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\TimeDisplay\bin\Debug\netcoreapp1.1\TimeDisplay.runtimeconfig.dev.json
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\TimeDisplay\bin\Debug\netcoreapp1.1\TimeDisplay.dll
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\TimeDisplay\bin\Debug\netcoreapp1.1\TimeDisplay.pdb
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\TimeDisplay\obj\Debug\netcoreapp1.1\TimeDisplay.AssemblyInfo.cs
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\TimeDisplay\obj\Debug\netcoreapp1.1\TimeDisplay.dll
+C:\Users\mikey\Desktop\Coding Dojo\dojo_stack\C#\asp.net_core\TimeDisplay\obj\Debug\netcoreapp1.1\TimeDisplay.pdb
